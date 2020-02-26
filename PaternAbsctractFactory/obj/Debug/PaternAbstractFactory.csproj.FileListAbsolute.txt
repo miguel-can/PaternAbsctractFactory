@@ -1,0 +1,7 @@
+C:\Users\miguel.can\source\repos\PaternFactory\PaternFactory\bin\Debug\PaternFactory.exe.config
+C:\Users\miguel.can\source\repos\PaternFactory\PaternFactory\bin\Debug\PaternFactory.exe
+C:\Users\miguel.can\source\repos\PaternFactory\PaternFactory\bin\Debug\PaternFactory.pdb
+C:\Users\miguel.can\source\repos\PaternFactory\PaternFactory\obj\Debug\PaternAbstractFactory.csprojAssemblyReference.cache
+C:\Users\miguel.can\source\repos\PaternFactory\PaternFactory\obj\Debug\PaternAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\miguel.can\source\repos\PaternFactory\PaternFactory\obj\Debug\PaternFactory.exe
+C:\Users\miguel.can\source\repos\PaternFactory\PaternFactory\obj\Debug\PaternFactory.pdb
